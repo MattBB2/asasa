@@ -4,3 +4,4 @@
 4. Commit D
 5. Commit E
 6. Commit F
+7. Commit G
